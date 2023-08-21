@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "why do we use it?/int is a long established fact,Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ratione quod molestias totam ipsam, voluptate nostrum iure voluptatum? Reiciendis, maxime nihil? Alias, expedita. Velit cum voluptas cupiditate error repellendus quidem voluptatum incidunt dicta est veritatis, architecto atque expedita obcaecati consequatur perspiciatis laudantium quisquam corrupti perferendis dignissimos, necessitatibus accusantium illo minima ipsa vitae. Inventore sint ipsam autem, laudantium molestiae maiores eos voluptatum optio voluptatibus aut laborum tempora, sed maxime impedit voluptatem distinctio nulla iusto ullam odit cupiditate nobis corporis obcaecati. Voluptatem, necessitatibus reiciendis obcaecati neque magni voluptatum delectus porro quam dolor assumenda nemo, tempora in quas quisquam quibusdam cum eius sed!",
+      "author": "yoshi",
+      "id": 1
+    },
+    {
+      "title": "Opening party!",
+      "body": "why do we use it?/int is a long established fact,Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae ratione quod molestias totam ipsam, voluptate nostrum iure voluptatum? Reiciendis, maxime nihil? Alias, expedita. Velit cum voluptas cupiditate error repellendus quidem voluptatum incidunt dicta est veritatis, architecto atque expedita obcaecati consequatur perspiciatis laudantium quisquam corrupti perferendis dignissimos, necessitatibus accusantium illo minima ipsa vitae. Inventore sint ipsam autem, laudantium molestiae maiores eos voluptatum optio voluptatibus aut laborum tempora, sed maxime impedit voluptatem distinctio nulla iusto ullam odit cupiditate nobis corporis obcaecati. Voluptatem, necessitatibus reiciendis obcaecati neque magni voluptatum delectus porro quam dolor assumenda nemo, tempora in quas quisquam quibusdam cum eius sed!",
+      "author": "mario",
+      "id": 2
+    },
+    {
+      "title": "Hello ninjas",
+      "body": "all about learning react",
+      "author": "yoshi",
+      "id": 3
+    }
+  ]
+}
